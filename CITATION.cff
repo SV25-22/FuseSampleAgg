@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use FuseSampleAgg, please cite the KSEM 2026 paper."
+title: "FuseSampleAgg: One-Pass Neighborhood Estimation for Budgeted Knowledge-Graph Refresh and Validation"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Stanković
+    given-names: Aleksandar
+    orcid: "https://orcid.org/0009-0003-5238-7251"
+  - family-names: Du
+    given-names: Haoran
+    orcid: "https://orcid.org/0009-0000-6542-6940"
+  - family-names: Wang
+    given-names: Xinming
+    orcid: "https://orcid.org/0009-0001-9111-4817"
+repository-code: "https://github.com/SV25-22/FuseSampleAgg"
