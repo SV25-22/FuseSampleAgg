@@ -1,16 +1,37 @@
 cff-version: 1.2.0
-message: "If you use FuseSampleAgg, please cite the KSEM 2026 paper."
-title: "FuseSampleAgg: One-Pass Neighborhood Estimation for Budgeted Knowledge-Graph Refresh and Validation"
+message: "If you use FuseSampleAgg, please cite the KSEM 2026 paper below."
+title: "FuseSampleAgg"
 type: software
 version: 1.0.0
-authors:
-  - family-names: Stanković
-    given-names: Aleksandar
-    orcid: "https://orcid.org/0009-0003-5238-7251"
-  - family-names: Du
-    given-names: Haoran
-    orcid: "https://orcid.org/0009-0000-6542-6940"
-  - family-names: Wang
-    given-names: Xinming
-    orcid: "https://orcid.org/0009-0001-9111-4817"
+license: MIT
 repository-code: "https://github.com/SV25-22/FuseSampleAgg"
+authors:
+  - family-names: "Stanković"
+    given-names: "Aleksandar"
+    orcid: "https://orcid.org/0009-0003-5238-7251"
+  - family-names: "Du"
+    given-names: "Haoran"
+    orcid: "https://orcid.org/0009-0000-6542-6940"
+  - family-names: "Wang"
+    given-names: "Xinming"
+    orcid: "https://orcid.org/0009-0001-9111-4817"
+preferred-citation:
+  type: conference-paper
+  title: "FuseSampleAgg: One-Pass Neighborhood Estimation for Budgeted Knowledge-Graph Refresh and Validation"
+  authors:
+    - family-names: "Stanković"
+      given-names: "Aleksandar"
+      orcid: "https://orcid.org/0009-0003-5238-7251"
+    - family-names: "Du"
+      given-names: "Haoran"
+      orcid: "https://orcid.org/0009-0000-6542-6940"
+    - family-names: "Wang"
+      given-names: "Xinming"
+      orcid: "https://orcid.org/0009-0001-9111-4817"
+  conference:
+    name: "19th International Conference on Knowledge Science, Engineering and Management (KSEM 2026)"
+  collection-title: "Knowledge Science, Engineering and Management"
+  year: 2026
+  start: 100
+  end: 110
+  doi: "10.1007/978-981-92-2852-2_8"
